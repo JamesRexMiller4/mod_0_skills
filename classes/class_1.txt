@@ -40,3 +40,8 @@ methodThankStaff()
   console.log("Thank you" + x )
 
 (this method thanks the appropriate staff member)
+
+
+
+
+Make sure to read instructions before adding commit messages
