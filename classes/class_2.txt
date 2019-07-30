@@ -1,0 +1,42 @@
+Class = Italian Restaurant
+
+
+Attributes
+
+Staff (string)
+whenTheyAreOpen(float)
+whenTheyAreClosed(float)
+Dishes("string")
+
+Methods
+
+MethodOpenRestaurant(x){
+  StaffToday = ['x', 'y', 'z', 'w', 'i']
+  if time > WhenTheyareOpen and time < whenTheyAreClosed and staffToday.length > 4
+
+}
+
+(This method checks to make sure there are enough Staff from an array of staff
+and that the whenTheyAreOpen and whenTheyAreClosed attributes are in the time window that the restaurant is open)
+
+
+methodTooManyCooks() {
+    if staffToday.length('Cook') > 3
+    staff = staff - staff.find('Cook') + "Waiter"
+}
+(This method checks an array of Staff and if there are more than 3 cooks in the array
+it changes the array to have one less cook )
+
+methodFindMyDish(){
+    menu = ["Lamb Korma", "Chicken Tikka Missala", "Saag Paneer", "Naan"]
+    if [x] != "y":
+    menu.find("y")
+}
+(This method searches through attributes of dishes that are combined into an array
+called menu to find the dish you are looking for. Search by the attribute string)
+
+methodThankStaff()
+  if staff == "x":
+  console.log("Thank you" + x )
+
+(this method thanks the appropriate staff member)
