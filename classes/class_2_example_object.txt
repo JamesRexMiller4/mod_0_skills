@@ -1,0 +1,31 @@
+Object/Instance = Olive Garden
+
+Attributes
+Staff ("Cook")
+whenTheyAreOpen(10.00)
+whenTheyAreClosed(20.00)
+Dishes("pasta")
+
+
+
+Methods
+StaffToday = ['Cook','Cook', 'Cook', 'Waiter', 'Cook']
+
+methodOpenRestaurant(14.00)
+
+(since it is 2 pm aka 14.00 the restaurant is open)
+
+methodTooManyCooks(StaffToday)
+
+(since the array of attributes staff called StaffToday has more than three "Cook" it
+will remove a "Cook" from the array and add "Waiter")
+
+methodFindMyDish("Pasta")
+  menu = ["Pasta", "Breadsticks", "Salad"]
+
+(this method searches the array menu to find the dish pasta)
+
+
+methodThankStaff("Cook")
+
+(this method prints out the message "Thank you Cook")
