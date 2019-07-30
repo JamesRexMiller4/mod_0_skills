@@ -1,0 +1,30 @@
+Object/Instance Example: Himchuli
+
+Attributes
+
+Staff ('waiter')
+whenTheyAreOpen(8.00)
+whenTheyAreClosed(22.00)
+Dishes("Lamb Korma")
+
+Methods
+
+  staffToday = ["Waiter", "Cook", "Manager", "Cook", "Hostess"]
+
+  methodOpenRestaurant(10.00) {
+  }
+  (since the time is within the window of whenTheyAreOpen and whenTheyAreClosed
+  and the array of staffToday is greater than 4 the restaurant is open)
+
+
+methodTooManyCooks(StaffToday)
+  (since there are only 2 cooks in the staff today the array of StaffToday will not be changed)
+
+
+methodFindMyDish("Lamb Korma")
+
+(this method finds Lamb Korma )
+
+methodThankStaff("Waiter")
+
+(this method prints out "Thank you waiter")
