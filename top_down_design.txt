@@ -57,3 +57,5 @@ Top Down Design - How to Become a Turing Student
 
 6. Become a Turing Student
   6.1 You will have become a Turing Student when all prior steps have been completed
+
+7. Be sure to look at Checklist before pushing changes to GitHub
