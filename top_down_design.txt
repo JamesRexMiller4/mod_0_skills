@@ -1,0 +1,59 @@
+Top Down Design - How to Become a Turing Student
+
+
+1. Applying to Turing
+  1.1. Go to computer
+  1.2 Log on
+  1.3 Open Web Browser
+  1.4 In Google Type Turing
+  1.5 Find Turing School of Software and Design Website from results(turing.io)
+    1.5.1 Click on correct link (turing.io)
+  1.6 From Turing Website Select Programs
+    1.6.1 Click on Programs Tab in right hand corner of navigation menu
+  1.7 Select Program
+    1.7.1 Select FrontEnd Program
+    1.7.2 Select BackEnd Programs
+  1.8 Click on apply that is associate with selected Program
+  1.9 Submit Resume
+    1.9.1 Attach Resume to application
+  1.10 Take Logic Quiz
+    1.10.1 Take logic quiz by selecting answer you believe to be logically sound based on question
+  1.11 If resume and logic quiz results pass go to step 2
+
+2. Conduct PreScreening Interview
+  2.1 Schedule time to take PreScreening Interview
+    2.1.1 From calendar scheduling app select a day and time to meet that works for your schedule
+      2.1.1.1 Works for your schedule would be not other scheduling conflicts and is available for interviewer
+  2.2 On selected day and time arrive to Turing School or Open computer if virtual interviewer
+  2.3 Discuss work history, personal qualities, take second logic Quiz
+    2.3.1 Tell the experience of prior jobs
+    2.3.2 Tell qualities of who you are as a person
+      2.3.2.1 Open Minded(T/F), Caring(T/F), AbletoWorkwithOthers(T/F)
+    2.3.3 Take second logic assessment
+      2.3.3.1 Select answers that you think are correct based on question parameters
+        2.3.3.1.1 If stuck ask interviewer for help
+  2.4 If PreScreening Interview results pass go to step 3
+
+3. Select your cohort and pay tuition
+    3.1 Once you are accepted into program you must select what cohort you would like to start
+      3.1.1 From calendar options when cohorts will begin program curriculum select cohort
+    3.2 To enter into cohort and begin mod 0 you must pay tuition
+      3.2.1 Tuition = 20,000
+    3.3. Once cohort selected and tuition paid go to step 4
+
+4. Begin and Pass MOD 0
+  4.1 Attend weekly session of MOD 0
+    4.1.1 Have computer and login with zoom at designated date and time
+  4.2 Complete all homework assignments, tasks, and readings.
+    4.2.1 If stuck asks your fellow cohort members first, then ask instructors
+  4.3 Complete all sessions and take Technical assessment
+
+5. Complete Capstone
+  5.1 After enrolling in program work on Capstone assignments
+  5.2 Capstone is designed to be completed over 7 days (~30 hours)
+  5.3 From assigned readings complete days assigned in gist
+  5.4 When all days and assignments are done, and all facets of capstone completed submit capstone
+  5.5 When steps 4 and 5 are completed and results are Turing Ready go to step 6
+
+6. Become a Turing Student
+  6.1 You will have become a Turing Student when all prior steps have been completed
