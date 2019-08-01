@@ -1,0 +1,16 @@
+Class : Chair
+
+Attributes:
+
+NumberOfLegs (integer)
+NumberOfArms (string)
+MaterialofChair (string)
+Assembled (boolean)
+
+
+Methods:
+
+CalculateNumofParts (Adds NumberOfLegs and NumberOfArms)
+CheckIsAssembled (Verifies Assemble attribute is True and contains the output of CalculateNumofParts)
+BuildChair (Verifies Assemble attribute is false, goes through script to build chair)
+CleanChair (Depending on MaterialofChair attribute, runs script to properly clean chair)
