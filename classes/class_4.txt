@@ -1,0 +1,18 @@
+Class: Refrigerator
+
+
+
+Attributes:
+
+IceCapacity(integer)
+IsItRunning(boolean)
+CurrentAmountofIce(integer)
+Magnets(array)
+
+
+Methods:
+
+RepairFridge (Verifies IsItRunning attribute is False and repairs)
+MakeMoreIce (If CurrentAmountofIce does not equal IceCapacity, subtracts CurrentAmountofIce from IceCapacity and adds difference)
+AddMagnets (Adds a item to Magnets array)
+TellJoke (If IsItRunning is True, prints "Then you better go catch it!")
